@@ -1,52 +1,19 @@
-# Prerequisites
-*.d
-
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
-
-# Linker output
-*.ilk
-*.map
-*.exp
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+.vs/*
+WeirdoBot/obj/*
+WeirdoBot/bin/*
+WeirdoBot/Properties/*
+packages/*
+WeirdoBot/obj/project.assets.json
+WeirdoBot/Database/Database.cs
+WeirdoBot/obj/WeirdoBot.csproj.nuget.cache
+WeirdoBot/obj/WeirdoBot.csproj.nuget.g.targets
+WeirdoBot/obj/WeirdoBot.csproj.nuget.g.props
+WeirdoBot/Database/Database.cs
+WeirdoBot/obj/WeirdoBot.csproj.nuget.cache
+WeirdoBot/obj/WeirdoBot.csproj.nuget.cache
+WeirdoBot/obj/WeirdoBot.csproj.nuget.g.props
+WeirdoBot/obj/WeirdoBot.csproj.nuget.g.targets
+WeirdoBot/obj/project.assets.json
+WeirdoBot/Properties/PublishProfiles/FolderProfile.pubxml
+WeirdoBot/Properties/PublishProfiles/FolderProfile.pubxml.user
+280805559
