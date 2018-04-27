@@ -1,0 +1,11 @@
+C:\Users\blckn\source\repos\WeirdoBot\WeirdoBot\bin\Debug\netcoreapp2.0\WeirdoBot.deps.json
+C:\Users\blckn\source\repos\WeirdoBot\WeirdoBot\bin\Debug\netcoreapp2.0\WeirdoBot.runtimeconfig.json
+C:\Users\blckn\source\repos\WeirdoBot\WeirdoBot\bin\Debug\netcoreapp2.0\WeirdoBot.runtimeconfig.dev.json
+C:\Users\blckn\source\repos\WeirdoBot\WeirdoBot\bin\Debug\netcoreapp2.0\WeirdoBot.dll
+C:\Users\blckn\source\repos\WeirdoBot\WeirdoBot\obj\Debug\netcoreapp2.0\WeirdoBot.csprojResolveAssemblyReference.cache
+C:\Users\blckn\source\repos\WeirdoBot\WeirdoBot\obj\Debug\netcoreapp2.0\WeirdoBot.csproj.CoreCompileInputs.cache
+C:\Users\blckn\source\repos\WeirdoBot\WeirdoBot\obj\Debug\netcoreapp2.0\WeirdoBot.AssemblyInfoInputs.cache
+C:\Users\blckn\source\repos\WeirdoBot\WeirdoBot\obj\Debug\netcoreapp2.0\WeirdoBot.AssemblyInfo.cs
+C:\Users\blckn\source\repos\WeirdoBot\WeirdoBot\bin\Debug\netcoreapp2.0\WeirdoBot.pdb
+C:\Users\blckn\source\repos\WeirdoBot\WeirdoBot\obj\Debug\netcoreapp2.0\WeirdoBot.dll
+C:\Users\blckn\source\repos\WeirdoBot\WeirdoBot\obj\Debug\netcoreapp2.0\WeirdoBot.pdb
